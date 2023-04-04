@@ -6,9 +6,8 @@
 <!-- Talking about you -->
 **About Me:**
 
-- I’m currently learning Swift.
-- I love JS Frameworks, MongoDB and LUA but above all PHP at backend.
-- Fun-Fact: Trying to become a software engineer.
+- 42 Madrid Student
+- I love JS Frameworks, MongoDB and LUA.
 - How to reach me: daniel.serrano@ds-server.eu
 
 ---
