@@ -7,6 +7,8 @@
 **About Me:**
 
 - 42 Madrid Student
+- I’m currently learning Swift.
+- Fun-Fact: Trying to become a software engineer.
 - I love JS Frameworks, MongoDB and LUA.
 - How to reach me: daniel.serrano@ds-server.eu
 
