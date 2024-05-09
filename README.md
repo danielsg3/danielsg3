@@ -6,6 +6,7 @@
 <!-- Talking about you -->
 **About Me:**
 
+-CTO at Supercademy
 - 42 Madrid Student
 - I’m currently learning Swift.
 - Fun-Fact: Trying to become a software engineer.
