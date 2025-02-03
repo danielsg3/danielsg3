@@ -6,11 +6,7 @@
 <!-- Talking about you -->
 **About Me:**
 
--CTO at Supercademy
-- 42 Madrid Student
-- I’m currently learning Swift.
-- Fun-Fact: Trying to become a software engineer.
-- I love JS Frameworks, MongoDB and LUA.
+- CTO at Supercademy
 - How to reach me: daniel.serrano@ds-server.eu
 
 ---
